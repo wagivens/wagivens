@@ -14,4 +14,4 @@ Here are some of my competencies:
 | PHP | MongoDB |
 | MySQL | AWS |
 | Design Thinking | |
-| UI Design | |
+| UI Design | C# (For use in ASP.NET Core and Blazor Web Apps) |
