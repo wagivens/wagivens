@@ -13,5 +13,5 @@ Here are some of my competencies:
 | Vanilla JavaScript | Node JS |
 | PHP | MongoDB |
 | MySQL | AWS |
-| Design Thinking | C# (For use in ASP.NET Core and Blazor Web Apps) |
+| Design Thinking | C# (For ASP.NET Core MVC and Blazor Web Apps) |
 | UI Design | |
